@@ -1,0 +1,13 @@
+start
+display initial text with options
+display continue option
+
+intake from user the initial investment, years, deposits, and interest
+
+total amount without deposits = initial investment plus interest
+display amount without monthly deposits
+
+total amount with deposits = initial investment plus deposits and interest
+display amount with monthly deposits
+
+end
